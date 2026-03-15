@@ -1,0 +1,6 @@
+--- Temel Özet İstatistikler ---
+Read_Length - Ortalama (Mean): 1038.24, Ortanca (Median): 547.00
+GC_Content_Pct - Ortalama (Mean): 53.00, Ortanca (Median): 53.53
+Mean_Quality_Score - Ortalama (Mean): 17.90, Ortanca (Median): 17.31
+
+Grafikler başarıyla oluşturuldu ve 'results/custom_qc_plot_distributions.png' olarak kaydedildi.
