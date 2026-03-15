@@ -1,3 +1,4 @@
+# Bu projeyi yapmam sadece 45 dakikamı aldı. 
 # longread-qc-pipeline
 # Long-Read Quality Control Pipeline
 
